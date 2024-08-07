@@ -3,25 +3,25 @@ export const perguntas = [
         enunciado: "Assim que você acorda, se depara estar dentro de um jogo, sua principal missão é salvar a terra. O que você fara primeiro? ",
         alternativas: [
             {
-                texto: "!",
+                texto: "Sair explorar o mundo e saber o que aconteceu!",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "No inicio ficou com medo por estar sozinho(a)",
+                    "Achou assustador pensar que após uma noite de sono, ele acordaria em um sono"
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Ficar em seu local esperando que tudo volte ao normal",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Nem sempre esperar que tudo volte ao normal, seja a melhor solução",
+                    ""
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Após andar pelo mundo você encontra robôs, o que fazer? ",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
