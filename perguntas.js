@@ -6,7 +6,7 @@ export const perguntas = [
                 texto: "Sair explorar o mundo e saber o que aconteceu!",
                 afirmacao: [
                     "No inicio ficou com medo por estar sozinho(a)",
-                    "Achou assustador pensar que após uma noite de sono, ele acordaria em um sono"
+                    "Achou assustador pensar que após uma noite de sono, ele acordaria em um jogo."
                 ],
                 proxima: 1,
             },
@@ -14,7 +14,7 @@ export const perguntas = [
                 texto: "Ficar em seu local esperando que tudo volte ao normal",
                 afirmacao: [
                     "Nem sempre esperar que tudo volte ao normal, seja a melhor solução",
-                    ""
+                    "É sempre bom tentar buscar uma solução para o seu problema"
                 ],
                 proxima: 2,
             },
@@ -24,27 +24,27 @@ export const perguntas = [
         enunciado: "Após andar pelo mundo você encontra robôs, o que fazer? ",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Tentar contato para entender melhor o que está havendo",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Buscar alternativas e soluções viaveis é muito bom para explorar suas opções.",
+                    "Quando você abre a mente para novas ideias, soluções melhores podem surgir",
+                    
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Se esconde por medo por serem criaturas hostis.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Não deixe se levar pelo medo, pois ele pode te impedir de raciocinar a melhor opção para a situação",
+                    "Mesmo fugindo da situação, em outro momento você terá que aceitar a realidade",
+                    
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Um chat cnaom IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
