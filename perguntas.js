@@ -44,7 +44,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Um chat cnaom IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: " Após o contato, os robôs o levam para a base das winx. (Suas aliadas), e te contam o porque está nesse mundo.",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
