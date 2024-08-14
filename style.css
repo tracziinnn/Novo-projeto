@@ -9,7 +9,7 @@
 }
   
 body {
-    background-color: var(--cor-fundo);
+    background-image: url(https://lh5.googleusercontent.com/-yr7Y1rk0_CY/VDRCJGW8LNI/AAAAAAAAIaA/fu5sJnRY-co/s0/Winx_Wide.jpg);
     color: var(--cor-texto);
     font-family: 'Inter', sans-serif;
     display: flex;
