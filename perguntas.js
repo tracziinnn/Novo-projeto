@@ -16,7 +16,7 @@ export const perguntas = [
                     "Nem sempre esperar que tudo volte ao normal, seja a melhor solução",
                     "É sempre bom tentar buscar uma solução para o seu problema"
                 ],
-                proxima: 2,
+                proxima: 1,
             },
         ]
     },
@@ -30,7 +30,7 @@ export const perguntas = [
                     "Quando você abre a mente para novas ideias, soluções melhores podem surgir",
                     
                 ],
-                proxima: 3,
+                proxima: 2,
             },
             {
                 texto: "Se esconde por medo por serem criaturas hostis.",
@@ -39,43 +39,42 @@ export const perguntas = [
                     "Mesmo fugindo da situação, em outro momento você terá que aceitar a realidade",
                     
                 ],
-                proxima: 4,
+                proxima: 2,
             },
         ]
     },
     {
-        enunciado: " Após o contato, os robôs o levam para a base das winx. (Suas aliadas), e te contam o porque está nesse mundo.",
+        enunciado: "Após o contato, os robôs o levam para a base das winx. (Suas aliadas).",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: " Você confia nelas, e pergunta o que está havendo.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
+                    ".",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Você fica desconfiado e pede para que te retirem dali imediatamente.",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
                 ],
-                proxima: 4,
+                proxima: 3,
             },
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
+        enunciado: "Elas te explicam oque está acontecendo e você entende que são suas aliadas. Agora que você está junto com elas, e descobre que terá que lutar contra robôs inimigos! ",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Você fic.",
                 afirmacao: [
                     "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
                     "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
                 ],
-                proxima: 5,
+                proxima: 4,
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
@@ -83,7 +82,7 @@ export const perguntas = [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
                 ],
-                proxima: 6,
+                proxima: 4,
             },
         ]
     },
@@ -104,7 +103,7 @@ export const perguntas = [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
                 ],
-                proxima: 6,
+                proxima: 5,
             },
         ]
     },
@@ -117,7 +116,7 @@ export const perguntas = [
                     "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
                     "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
                 ],
-                proxima: 7,
+                proxima: 6,
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
@@ -125,7 +124,7 @@ export const perguntas = [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
                 ],
-                proxima: 7,
+                proxima: 6,
             },
         ]
     },
