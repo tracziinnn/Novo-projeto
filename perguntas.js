@@ -16,7 +16,7 @@ export const perguntas = [
                     "Nem sempre esperar que tudo volte ao normal, seja a melhor solução",
                     "É sempre bom tentar buscar uma solução para o seu problema"
                 ],
-                proxima: 1,
+                proxima: 2,
             },
         ]
     },
@@ -44,7 +44,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após o contato, os robôs o levam para a base das winx. (Suas aliadas).",
+        enunciado: "Após robôs te avistarem, eles te levam para a base das winx. (Suas aliadas).",
         alternativas: [
             {
                 texto: " Você confia nelas, e pergunta o que está havendo.",
@@ -103,15 +103,15 @@ export const perguntas = [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
                 ],
-                proxima: 5,
+                proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Novas tecnologias trazem novos desafios, por isso após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: " Você começa um ardo treinamento para ajuda-lás a exterminar as forças do mal",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: " Você vai para a batalha, ajudar suas aliadas",
                 afirmacao: [
                     "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
                     "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
@@ -119,7 +119,7 @@ export const perguntas = [
                 proxima: 6,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "",
                 afirmacao: [
                     "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
